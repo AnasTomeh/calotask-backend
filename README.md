@@ -9,6 +9,7 @@ This is the back-end part of the CaloTask project.
 ## Setup
 - Node.js >= 20.6 is required
 - Install the dependencies with `yarn install`
+- copy `.env.example` to `.env`
 - add `UNSPLASH_ACCESS_KEY` to `.env` file
 - Run the server with `yarn dev`
 
